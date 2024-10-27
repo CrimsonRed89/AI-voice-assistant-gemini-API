@@ -4,7 +4,7 @@ A real-time voice AI assistant that uses Google's Gemini API to generate text re
 ## Features
 Speech-to-Text: Captures voice input from the microphone and converts it to text.
 AI-Powered Response: Uses Gemini API to generate responses.
-Text-to-Speech: Reads responses back to the user in a natural-sounding voice.
+Text-to-Speech: Reads responses back to the user in a natural-sounding voice. 
 Looped Operation: Continuously listens for input and responds until you say "stop."
 
 ## Requirements
